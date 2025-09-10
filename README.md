@@ -10,7 +10,6 @@
 
 - 🌍 Based in Ottawa, Canada
 - 🎯 Reduced platform costs by 60% while achieving 82.5% data quality standards
-- 📈 Increased data-driven decision-making from 0% to 73.6% in Product teams
 - 🏆 Leading teams across MLOps, data architecture, and analytics
 
 ## 🛠️ Tech Stack
