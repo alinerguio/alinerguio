@@ -41,7 +41,7 @@ I help **companies** build **scalable, cost-efficient data platforms**.
 - Platform audits & cost optimization
 - Team enablement & best practices
 
-🌐 **[alinedataengineer.com](alinedataengineer.com)**
+🌐 **[alinedataengineer.com](https://www.alinedataengineer.com)**
 
 
 ## 🔗 Connect
