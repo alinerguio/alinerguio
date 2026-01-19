@@ -5,32 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Fractional+Data+Engineering+Lead;Scalable+AWS+Data+Platforms;Cost-Efficient+Analytics+%26+MLOps" />
 </div>
 
----
 
 ## 🚀 What I Do
 
 I help **companies** build **scalable, cost-efficient data platforms**.
 
-- 💸 **30–60% cloud cost reduction**
+- ⬇️ **60% platform cost reduction**
 - ⚙️ Production-grade pipelines (CI/CD, testing, observability)
 - 🧱 AWS-native data architectures
-- 📊 Analytics & ML-ready data
-
-**Data Engineering Manager @ B Lab Global**  
-📍 Ottawa, Canada | 🌍 Remote
-
----
-
-## 📈 Impact
-
-- ⬇️ **60% platform cost reduction**
-- ✅ **82.5%+ data quality**
-- 🚀 **400+ pipelines** deployed
 - 👥 Led **Data, MLOps & Analytics** teams
-- 🧠 **5+ years** industry experience
 
----
-
+  
 ## 🛠️ Stack
 
 <div align="center">
@@ -49,7 +34,6 @@ I help **companies** build **scalable, cost-efficient data platforms**.
 
 </div>
 
----
 
 ## 🤝 Work With Me
 
@@ -57,9 +41,8 @@ I help **companies** build **scalable, cost-efficient data platforms**.
 - Platform audits & cost optimization
 - Team enablement & best practices
 
-🌐 **alinedataengineer.com**
+🌐 **[alinedataengineer.com](alinedataengineer.com)**
 
----
 
 ## 🔗 Connect
 
@@ -72,6 +55,5 @@ I help **companies** build **scalable, cost-efficient data platforms**.
 
 </div>
 
----
 
 <i>Scalable data platforms — without the cloud bill drama.</i>
